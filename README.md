@@ -8,22 +8,77 @@
 - Embedded C | STM32CubeIDE | Arduino IDE
 - ESP32 | STM32 | 8051
 - UART, SPI, I2C, CAN protocols
-- Sensor interfacing | PWM | ADC | Timers
-- Sensor Interfacing: DHT11, IR, LDR, LM35, etc.
+- Sensors & Interfaces: GPIO, ADC, PWM, Timers
 - IoT: Adafruit IO, MQTT, Wi-Fi Communication
 
 ---
 
 ## 📂 Project Portfolio
 
-🔹 [ESP32 MQTT Sensor to Adafruit IO](https://github.com/patilmm123/esp32-mqtt-sensor)  
-Publish temperature & humidity data to Adafruit IO using MQTT.
+This section lists my hands-on embedded systems projects.  
+Detailed documentation is not available for every project — many were built for learning, prototyping or training purposes.
 
-🔹 [STM32 LCD + Button Toggle](https://github.com/patilmm123/stm32-lcd-toggle)  
-Toggle LCD message using onboard push-button.
+---
 
-🔹 [CAN Protocol Alert System (STM32)](https://github.com/patilmm123/stm32-can-alert)  
-Send temperature levels over CAN and display received messages.
+### ⭐ Highlighted Projects
+(These are strong projects mentioned in my resume)
+- **Wireless IO Extender (ESP32 + Modbus)**
+- **IoT Relay Timer System**
+- **Vehicle Tracking System**
+
+---
+
+## 🔧 STM32 Projects
+Here are some of the projects done with STM32:
+- CAN communication (Tx/Rx, alerts)
+- LCD interface (4-bit mode)
+- Timers, PWM, Input Capture
+- UART command control
+- ADC sensor reading
+- GPIO, EXTI, debounce handling
+
+
+---
+
+## 🌐 ESP32 / ESP8266 Projects
+- ESP32 MQTT Sensor to Adafruit IO
+- ESP32 Mesh Networking (painlessMesh)
+- OTA firmware update demo
+- Wi-Fi wireless IO extender
+- ESP8266 timer-based relay control
+
+---
+
+## 🔄 Communication Protocol Projects
+- CAN protocol embedded implementation
+- Modbus RTU master & slave
+- UART, SPI, I2C interfacings
+- RS232 / RS485 comms
+
+---
+
+## 📟 Sensors & Actuators
+- Ultrasonic (water level sensing)
+- Analog liquid level sensing
+- IR, Reed switches
+- Relay & buzzer control
+- PWM LED / motor control
+
+---
+
+## ⏱ RTOS / Advanced
+- ESP32 FreeRTOS multi-tasking
+- Dual-core scheduling and task division
+- Stability & watchdog demonstrations
+
+---
+
+## 📘 Learning / Educational Demos
+- Bare-metal GPIO bring-up
+- Interrupt & callback basics
+- Peripheral initialization demos
+- Embedded debugging examples
+
 
 ---
 
@@ -41,6 +96,7 @@ Send temperature levels over CAN and display received messages.
 - 💼 [LinkedIn](https://linkedin.com/in/milind-patil123)  
 - 
 
+⭐ Thanks for visiting my profile!
 ---
 
 ⭐ *Thanks for visiting! Check out my pinned projects below.*
