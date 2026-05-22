@@ -2,14 +2,14 @@
 
 🔧 Embedded Firmware Developer | STM32 | ESP32 | Embedded C | IoT
 
-🎯 Passionate about building real-world embedded projects using microcontrollers and sensors.
+🎯 Building real-world embedded projects using microcontrollers and sensors.
 
 ## 🔥 Skills
-- Embedded C | STM32CubeIDE | Arduino IDE
-- ESP32 | STM32 | 8051
-- UART, SPI, I2C, CAN protocols
-- Sensors & Interfaces: GPIO, ADC, PWM, Timers
-- IoT: Adafruit IO, MQTT, Wi-Fi Communication
+- Embedded C | STM32CubeIDE | MATLAB | KEIL | VS code | Proteus
+- ESP32 | STM32 | 8051 | ESP8266 
+- UART, SPI, I2C, CAN, MODBUS RTU protocols
+- Sensors & Interfaces: GPIO, ADC, PWM, Timers, Serial Modules
+- IoT: Firebase, Adafruit IO, Thingspeak, REST API, IFTTT
 
 ---
 
@@ -22,9 +22,10 @@ Detailed documentation is not available for every project — many were built fo
 
 ### ⭐ Highlighted Projects
 (These are strong projects mentioned in my resume)
-- **Wireless IO Extender (ESP32 + Modbus)**
-- **IoT Relay Timer System**
-- **Vehicle Tracking System**
+- **ESP32 Mesh-Based Distributed I/O System with Modbus Interface**
+- **Modular Appliance Control System (IoT and Non-IoT)**
+- **Shutter Security System using ESP32**
+- **Biometric Ignition Control System using 8051 and Fingerprint Sensor**
 
 ---
 
@@ -51,7 +52,7 @@ Here are some of the projects done with STM32:
 
 ## 🔄 Communication Protocol Projects
 - CAN protocol embedded implementation
-- Modbus RTU master & slave
+- Modbus RTU
 - UART, SPI, I2C interfacings
 - RS232 / RS485 comms
 
@@ -69,8 +70,7 @@ Here are some of the projects done with STM32:
 ## ⏱ RTOS / Advanced
 - ESP32 FreeRTOS multi-tasking
 - Dual-core scheduling and task division
-- Stability & watchdog demonstrations
-
+  
 ---
 
 ## 📘 Learning / Educational Demos
@@ -84,9 +84,9 @@ Here are some of the projects done with STM32:
 
 ## 📈 Goals
 
-- 🔄 Transition from Arduino to **FreeRTOS / ESP-IDF**
+- 🔄 Transition to **FreeRTOS / ESP-IDF**
 - 🚀 Learn **Linux Device Drivers** and **Embedded Linux**
-- 💼 Land a role as an **Embedded Firmware Developer**
+- 💼 Land a role as a **Lead Developer**
 
 ---
 
