@@ -6,7 +6,8 @@
 
 ## 🔥 Skills
 - Embedded C | STM32CubeIDE | MATLAB | KEIL | VS code | Proteus
-- ESP32 | STM32 | 8051 | ESP8266 
+- ESP32 | STM32 | 8051 | ESP8266
+- MSYS2 | GCC | CPPCHECK
 - UART, SPI, I2C, CAN, MODBUS RTU protocols
 - Sensors & Interfaces: GPIO, ADC, PWM, Timers, Serial Modules
 - IoT: Firebase, Adafruit IO, Thingspeak, REST API, IFTTT
@@ -93,7 +94,7 @@ Here are some of the projects done with STM32:
 ## 📬 Contact
 
 - 📧 Email: patilmm123@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/milind-patil123)  
+-   
 - 
 
 ⭐ Thanks for visiting my profile!
